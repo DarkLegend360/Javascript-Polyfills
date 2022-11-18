@@ -1,0 +1,16 @@
+{
+  "name": "js-polyfills",
+  "version": "1.0.0",
+  "description": "javascript polyfills",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-map": "node 001-map.js",
+    "start-filter": "node 002-filter.js",
+    "start-reduce": "node 003-reduce.js",
+    "start-forEach": "node 004-forEach.js",
+    "start-find": "node 005-find.js",
+    "start-slice": "node 006-slice.js"
+  },
+  "author": "Goutham Sidhardha",
+  "license": "ISC"
+}
